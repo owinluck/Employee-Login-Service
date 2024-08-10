@@ -6,7 +6,7 @@ spring:
 
   jpa :
     hibernate:
-      ddl-auto : auto
+      ddl-auto : update
 
 server :
   port: 8081
