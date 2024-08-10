@@ -13,3 +13,5 @@ b
 2src/main/java/org/example/service/UserService.java,0\a\0a429d57c61a30e0b0d20ccf1326f3bddfab3779
 k
 ;src/main/java/org/example/service/impl/UserServiceImpl.java,0\f\0f9a3cfff188848eed2ca2aef911196056ecbe61
+h
+8src/main/java/org/example/repoditory/UserRepository.java,2\3\23b23e60dd37cfc8a535d860d9e317795a6fe2af
